@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Maksim Bober
-- 👀 I’m interested in data analytics, sofware development and finance
-- 📚 I like reading and writing you can find my blogs bellow
-  - [My Blog: Thought Dump](https://maksimbober.substack.com/) 
+- 👀 I’m interested in data analytics, software development and finance
+- 📚 I like reading and writing; you can find my blogs bellow
   - [My Dev To](https://dev.to/bobrinik)
-- 🌱 I’m currently learning Data Analytics for Trading
-- 💞️ I’m looking to collaborate on algorithmic trading
+- 🌱 I’m currently learning Data Analytics
